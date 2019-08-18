@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`[routes] <ErrorRoute /> matches snapshot 1`] = `
+<article
+  class="ErrorPage"
+>
+  <h1>
+    An error has occurred
+  </h1>
+  <div
+    class="ErrorPage--content container"
+  >
+    <p>
+      An error has occurred, please try again.
+    </p>
+  </div>
+</article>
+`;
